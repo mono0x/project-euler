@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 import java.math.BigInteger;
 
 public class Problem0016 {

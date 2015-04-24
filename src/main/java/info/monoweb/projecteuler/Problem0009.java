@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0009 {
     public static void main(String[] args) {
         final int sum = 1000;

@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0017 {
     public static final int[] letters = {
         0,

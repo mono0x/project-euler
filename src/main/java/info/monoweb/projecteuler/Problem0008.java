@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0008 {
     public static void main(String[] args) {
         final int digits = 13;

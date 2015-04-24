@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0003 {
     public static void main(String[] args) {
         final long target = 600_851_475_143l;

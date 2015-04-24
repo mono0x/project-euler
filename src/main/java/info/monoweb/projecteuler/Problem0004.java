@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0004 {
     public static void main(String[] args) {
         int max = 0;

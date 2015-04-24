@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0018 {
     public static final String[] triangle = {
         "75",

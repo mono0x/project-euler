@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 import java.util.Map;
 import java.util.HashMap;
 

@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 import java.util.Set;
 import java.util.HashSet;
 import java.util.stream.IntStream;

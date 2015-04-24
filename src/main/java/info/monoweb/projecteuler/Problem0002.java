@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0002 {
     public static void main(String[] args) {
         final int max = 4_000_000;

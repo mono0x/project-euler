@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0011 {
     public static void main(String[] args) {
         final String source = 

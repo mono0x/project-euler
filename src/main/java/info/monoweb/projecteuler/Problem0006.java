@@ -1,3 +1,5 @@
+package info.monoweb.projecteuler;
+
 public class Problem0006 {
     public static void main(String[] args) {
         final long n = 100;
